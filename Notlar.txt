@@ -19,6 +19,8 @@ LAYERLAR
 fakat her dilde durum ayni degildir javada fonksiyonlar yoktur hersey methoddur fakat bu ihtiyaca cevap verebilmek icin static methodlar vardir 
 ( static methodlar = çinde buluduğu sınıftan nesne oluşturulmadan veya hiç bir nesneye referans olmadan kullanılabilen üyeler static olarak nitelendirilir. Metotlar ve alanlar staticolarak tanımlanabilir.)
 
+-MVC uygulamasında veri tabanı tablolarını Code First yöntemi ile oluşturmaya başladığımızda yapılan validasyon işlemlerine Data Annotations denir
+
 -
 
 
