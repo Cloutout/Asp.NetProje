@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer.Concrete
 {
-    public class Context : DbContext
+    public class Context : System.Data.Entity.DbContext
         //sql tarafinda olusan tablolar buradan yapilir ve tablo isimlerinin sonu hep s takisi ile biter
     {
         public DbSet<About> Abouts { get; set; }
